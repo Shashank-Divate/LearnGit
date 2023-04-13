@@ -7,3 +7,4 @@ Microsoft Account
 Skype Account
 Windows Account
 Gmai Account
+Yahoo Account
